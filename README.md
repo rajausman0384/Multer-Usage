@@ -13,6 +13,6 @@ Steps:
 7- Now you can access teacher routes which bascially implements the multer module.
 
 How to access teacher route:
-1- localhost:3000/teachers
+1- localhost:3000/teacher
  
 
